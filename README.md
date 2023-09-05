@@ -1,6 +1,6 @@
 # Blog-Website-Project
 
-Welcome to my blog website project. This is a project finished in Udemy - The Complete 2023 Web Development Bootcamp. It's a full-stack project supported by the following techniques: 
+Welcome to my blog website project finished in Udemy - The Complete 2023 Web Development Bootcamp. It's a full-stack project supported by the following techniques: 
 
 * Frontend: CSS, HTML, JavaScript
 * Backend: Node.js, Express.js, EJS
